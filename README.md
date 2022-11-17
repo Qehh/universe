@@ -1,5 +1,5 @@
 # universe
-free code camp task  
+freeCodeCamp task  
  **Build a Celestial Bodies Database**  
    
    
