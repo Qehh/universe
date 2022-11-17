@@ -1,3 +1,3 @@
 # universe
-##freeCodeCamp task.  
-###Build a Celestial Bodies Database
+## freeCodeCamp task.  
+### Build a Celestial Bodies Database
